@@ -1,5 +1,5 @@
 # Stage 1: Build the application
-FROM rust:1.77-slim as builder
+FROM rust:1.98-slim as builder
 WORKDIR /usr/src/app
 
 # Install sqlx-cli
