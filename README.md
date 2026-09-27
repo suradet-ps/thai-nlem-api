@@ -1,13 +1,10 @@
 # Thai NLEM API
 
-```
-████████╗██╗  ██╗ █████╗ ██╗███╗   ██╗██╗     ███████╗███╗   ███╗
-╚══██╔══╝██║  ██║██╔══██╗██║████╗  ██║██║     ██╔════╝████╗ ████║
-   ██║   ███████║███████║██║██╔██╗ ██║██║     █████╗  ██╔████╔██║
-   ██║   ██║  ██║██╔══██║██║██║╚██╗██║██║     ██╔══╝  ██║╚██╔╝██║
-   ██║   ██║  ██║██║  ██║██║██║ ╚████║███████╗███████╗██║ ╚═╝ ██║
-   ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝     ╚═╝
-```
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Rust: stable](https://img.shields.io/badge/rust-stable-orange.svg?logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Axum v0.8](https://img.shields.io/badge/Axum-v0.8-blue.svg)](https://github.com/tokio-rs/axum)
+[![PostgreSQL 16](https://img.shields.io/badge/PostgreSQL-16-4169E1.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/suradet-ps/thai-nlem-api/issues)
 
 ---
 
